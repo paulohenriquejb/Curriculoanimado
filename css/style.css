@@ -76,22 +76,6 @@ background:rgb(11, 38, 88) url('../img/bk_matrix.gif')
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 span{
     color: rgb(45, 211, 233);
 }
@@ -115,7 +99,7 @@ span{
 }
 
 .projetos{
-    margin-left: -250px;
+    margin-left:-135px;
 }
 
 
