@@ -99,7 +99,8 @@ span{
 }
 
 .projetos{
-    margin-left:-135px;
+    clear: right;
+    margin-left: -15%;
 }
 
 
